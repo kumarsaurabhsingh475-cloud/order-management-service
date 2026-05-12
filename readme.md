@@ -102,11 +102,6 @@ src/main/java/com/reflectionsglobal/assignment
 
 
 
-
----
-
-# PART 3 — APIs + Setup + Testing
-
 ```
 # API Endpoints
 
